@@ -1,3 +1,3 @@
 # postamanTest
 
-https://kata.academy:8021/api?Endpoints=Get%20Current%20User
+https://kata.academy:8021/api/user?token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYzQxYTNmNTJlNDk4MWIwMGNmMjg3NyIsInVzZXJuYW1lIjoibWF6YWZha2VyMjAwMCIsImV4cCI6MTY2MjIwMjk0MywiaWF0IjoxNjU3MDE4OTQzfQ.ZJf7Yr03HSB8BfcWiYfGFCl5L24E8FXitZq22o1CnWY"
